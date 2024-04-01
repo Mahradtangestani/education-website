@@ -1,4 +1,4 @@
-import {Navbar, Home, About, Course , Teacher, Contact, Footer } from "./components/index"
+import {Navbar, Home, About, Courses , Teacher, Contact, Footer } from "./components/index"
 
 function App() {
   
@@ -8,7 +8,7 @@ function App() {
         <Navbar/>
         <Home/>
         <About/>
-        <Course/>
+        <Courses/>
         <Teacher/>
         <Contact/>
         <Footer/>
